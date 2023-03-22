@@ -12,11 +12,10 @@
 - rm -rf Rm-Paid
 - git clone https://github.com/MIVI404cyber/Rm-Paid
 - cd Rm-Paid
-- python ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
+- python Rm-Paid.py
 # Single Command
-- pkg install git ; rm -rf Rm-Paid ; git clone https://github.com/MIVI404cyber/Rm-Paid ; cd Rm-Paid ; python ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
+- pkg install git ; rm -rf Rm-Paid ; git clone https://github.com/MIVI404cyber/Rm-Paid ; cd Rm-Paid ; python Rm-Paid.py
 
-[![Facebook](https://img.shields.io/badge/Facebook-RAJ-blue?style=flat-square&logo=facebook)](https://www.facebook.com/mr.rohman.129)</br>
  [CODED BY MR.MIVI]
 
 # Thanks All (💝)
